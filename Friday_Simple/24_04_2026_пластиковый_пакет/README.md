@@ -62,9 +62,9 @@
 Ставим настройки:
 - **Mode**: Sharp
 - **Octree Depth**: 6
-- **Smooth Shading**: убираем галочку (выключаем)
+- **Remove Disconected **: убираем галочку (выключаем)
 
-![Модификатор Remesh с настройками (Sharp, Depth=6, Smooth выключен)](img/img7.png)
+![Модификатор Remesh с настройками (Sharp, Depth=6, Remove Disconected выключен)](img/img7.png)
 
 ---
 
